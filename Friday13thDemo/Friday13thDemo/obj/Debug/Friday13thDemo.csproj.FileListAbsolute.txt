@@ -1,0 +1,10 @@
+C:\Users\hi\source\repos\Friday13thDemo\Friday13thDemo\bin\Debug\Friday13thDemo.exe.config
+C:\Users\hi\source\repos\Friday13thDemo\Friday13thDemo\bin\Debug\Friday13thDemo.exe
+C:\Users\hi\source\repos\Friday13thDemo\Friday13thDemo\bin\Debug\Friday13thDemo.pdb
+C:\Users\hi\source\repos\Friday13thDemo\Friday13thDemo\obj\Debug\Friday13thDemo.csproj.AssemblyReference.cache
+C:\Users\hi\source\repos\Friday13thDemo\Friday13thDemo\obj\Debug\Friday13thDemo.Form1.resources
+C:\Users\hi\source\repos\Friday13thDemo\Friday13thDemo\obj\Debug\Friday13thDemo.Properties.Resources.resources
+C:\Users\hi\source\repos\Friday13thDemo\Friday13thDemo\obj\Debug\Friday13thDemo.csproj.GenerateResource.cache
+C:\Users\hi\source\repos\Friday13thDemo\Friday13thDemo\obj\Debug\Friday13thDemo.csproj.CoreCompileInputs.cache
+C:\Users\hi\source\repos\Friday13thDemo\Friday13thDemo\obj\Debug\Friday13thDemo.exe
+C:\Users\hi\source\repos\Friday13thDemo\Friday13thDemo\obj\Debug\Friday13thDemo.pdb
